@@ -117,3 +117,24 @@ justify-content: center;
 cite {
   font-style: none;
 }
+
+#contact {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+
+#socialmedia {
+  display: flex;
+  flex-direction: row;
+  width: 3%;
+  align-items: center;
+  align-content: space-between;
+  margin: auto;
+  padding-bottom: 50px;
+}
